@@ -65,6 +65,6 @@ jobs:
           cd manifests
           echo "`ls`"
           git config --global user.email "jy82.park@kt.com"
-          git config --global user.name "github-actions"
+          git config --global user.name "82040175"
           git commit -am "Update image tag"
           git push -u origin main
