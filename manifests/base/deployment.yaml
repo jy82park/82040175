@@ -10,11 +10,10 @@ spec:
   template:
     metadata:
       labels:
-        app: "82040175" 
+        app: "82040175"
     spec:
       containers:
-        - name: "82040175" 
-          image: cepgstapacr.azurecr.io/82040175
+        - name: "82040175"
+          image: ceappacr.azurecr.io/82040175
           ports:
-
           - containerPort: 8080
