@@ -31,4 +31,4 @@ management:
         include: "*"
 
 pvc:
-  path: /mnt/postgres
+  path: /mnt/cloud-sample
